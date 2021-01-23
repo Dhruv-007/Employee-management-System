@@ -1,0 +1,50 @@
+
+
+body{
+	background-color: 	#D3D3D3;
+}
+
+.bx{
+	box-shadow: 2px 2px 15px rgba(0,0,0.2)
+}
+
+.form{
+	margin-bottom: 3px;
+
+}
+
+.fm{
+	font-size: small;
+	height: 30px;
+	width: 190px;
+
+}
+
+.pass{
+
+	font-size: small;
+	height: 30px;
+	width: 190px;
+	margin-top: 9px;
+
+}
+
+.button {
+  display: block;
+  position: relative;
+  left: 50%;
+  width: 15rem;
+  text-align: center;
+  color: #98FB98;
+  border: #98FB98 solid 0.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  transform: translateX(-50%);
+  border-radius: 10px;
+  margin-top: 70px;
+  background-color: #98FB98;
+  color: white;
+
+}
